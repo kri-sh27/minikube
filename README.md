@@ -190,7 +190,7 @@ kubectl delete deployment --all
 kubectl delete service --all
 
 
-
+```
 
 <div align="center">
   <img src="./output/1.png" alt="Logo" width="100%" height="100%">
